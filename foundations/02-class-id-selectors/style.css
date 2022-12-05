@@ -1,0 +1,16 @@
+.redtext {
+    background-color: #ffa3ba;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.bigtext {
+    font-size: 24px;
+}
+#number2 {
+    font-size: 36px;
+    color: rgb(18, 118, 248);
+}
+#number4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
